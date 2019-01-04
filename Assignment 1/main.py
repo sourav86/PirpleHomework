@@ -36,6 +36,9 @@ awardsWon = "Academy Awards, Golden Globe Awards, Satellite Awards"
 #Describes the spectrum of emotions in music
 valence = "Happy to Sad"
 
+#Song Rating
+rating = 9.5
+
 #Printing all the attributes
 print(song)
 print(artist)
@@ -49,6 +52,7 @@ print(durationInSeconds)
 print(noOfCopiesSold)
 print(awardsWon)
 print(valence)
+print(rating)
 
 
 
