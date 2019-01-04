@@ -1,4 +1,6 @@
-"""List down the attributes of my favorite song and print their values"""
+"""
+List down the attributes of my favorite song and print their values
+"""
 
 #Favorite Song Name
 song = "My Heart Will Go On"
