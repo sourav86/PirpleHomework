@@ -35,7 +35,7 @@ noOfCopiesSold = 18000000
 #Name of the awards won by this song
 awardsWon = "Academy Awards, Golden Globe Awards, Satellite Awards"
 
-#Describes the spectrum of emotions in music
+#Describes the spectrum of emotions in music 
 valence = "Happy to Sad"
 
 #Song Rating
